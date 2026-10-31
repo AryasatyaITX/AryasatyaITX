@@ -2,7 +2,7 @@
 
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+  <img src="[https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner](https://pin.it/6DhsKyE0A)" width="100%" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ### 🗄️ Database
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/fileformatsql/fileformatsql-icon.svg" alt="SQL" width="48" height="48" style="margin: 6px;" />
+  <img src="[https://www.vectorlogo.zone/logos/fileformatsql/fileformatsql-icon.svg](https://tableplus.com/download/)" alt="SQL" width="48" height="48" style="margin: 6px;" />
 </p>
 
 ### ⚙️ Tools
