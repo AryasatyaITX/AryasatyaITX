@@ -1,64 +1,111 @@
-<div align="center">
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Halo,%20Saya%20Nama%20Kamu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-<!-- Banner GIF / Gambar di Sini -->
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-# Halo, Saya Arya 👋
-
-[![Major](https://img.shields.io/badge/Informatics-Student-blue?style=for-the-badge&logo=codeforces)](https://github.com/AryasatyaITX)
-[![Status](https://img.shields.io/badge/Status-Coding%20%26%20Learning-green?style=for-the-badge&logo=appveyor)](https://github.com/AryasatyaITX)
-
-</div>
-
----
-
-### 💻 Tentang Saya
-> *Cuman mahasiswa gabut yang terjebak di dunia Informatika.* 
-> Suka ngoprek kode, bereksperimen dengan antarmuka web, dan menikmati proses memecahkan masalah logika di balik layar.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
 
 ---
 
-### 🛠️ Senjata Utama (Tech Stack)
+### 🧑‍💻 Tentang Saya
 
-Berikut adalah beberapa bahasa, *framework*, dan *tools* yang biasa saya gunakan untuk merakit program:
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Nama Kamu"
+        self.role = "Full Stack Developer"
+        self.location = "Indonesia"
+        self.currently_learning = ["Next.js", "Docker", "Cloud Computing"]
+        self.fun_fact = "Suka ngoding sambil dengerin musik 🎧"
 
-- **Bahasa Pemrograman:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" alt="JS" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" />
+    def say_hi(self):
+        print("Terima kasih sudah mampir ke profil saya! 👋")
+```
 
-- **Frontend & Styling:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" /> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" height="32" alt="Tailwind" />
-
-- **Database:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="32" height="32" alt="SQL" />
-
-- **Tools & Environment:** 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" alt="Git" /> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="32" height="32" alt="VS Code" /> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" height="32" alt="Figma" />
+- 🔭 Sedang mengerjakan **project keren**
+- 🌱 Sedang belajar **teknologi baru**
+- 👯 Terbuka untuk kolaborasi
+- 💬 Tanya saya soal **web development**
+- ⚡ Fun fact: **sesuatu yang unik tentang kamu**
 
 ---
 
-### 📬 Mari Terhubung
+### 🛠️ Tech Stack
 
-<div align="center">
+#### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp" />
+</p>
 
-  <a href="https://www.linkedin.com/in/aryasatyaitx" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="36" height="36" alt="LinkedIn" />
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/TablePlus-00ACED?style=for-the-badge" />
+</p>
+
+#### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true" width="70%">
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/username/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo1&theme=tokyonight&hide_border=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:aryasatyaitx@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="36" height="36" alt="Gmail" />
+  <a href="https://github.com/username/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo2&theme=tokyonight&hide_border=true" />
   </a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryasatyaitx/aryasatyaitx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="
+### 📈 Aktivitas Terbaru
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center"><i>⭐ Terima kasih sudah mampir! Jangan lupa follow ya~</i></p>
