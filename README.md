@@ -1,5 +1,8 @@
 <div align="center">
-  
+
+<!-- Banner GIF / Gambar di Sini -->
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 # Halo, Saya Arya 👋
 
 [![Major](https://img.shields.io/badge/Informatics-Student-blue?style=for-the-badge&logo=codeforces)](https://github.com/AryasatyaITX)
@@ -58,7 +61,4 @@ Berikut adalah beberapa bahasa, *framework*, dan *tools* yang biasa saya gunakan
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryasatyaitx/aryasatyaitx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryasatyaitx/aryasatyaitx/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aryasatyaitx/aryasatyaitx/output/github-snake.svg" />
-  </picture>
-</div>
+    <source media="(prefers-color-scheme: light)" srcset="
