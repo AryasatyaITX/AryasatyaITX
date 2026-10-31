@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Halo,%20Saya%20Arya%&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Halo,%20Saya%20Arya%&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc= width="100%"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ MAHASISW YANG BINGUNG DAN GABUT JOIN INFORMATIKA
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?AryasatyaITX=AryasatyaITX&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -79,10 +79,10 @@ MAHASISW YANG BINGUNG DAN GABUT JOIN INFORMATIKA
 
 <p align="center">
   <a href="https://github.com/username/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?AryasatyaITX=AryasatyaITX&repo=repo1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/username/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?AryasatyaITX=AryasatyaITX&repo=repo2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
