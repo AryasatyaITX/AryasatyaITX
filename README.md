@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Halo,%20Saya%20Nama%20Kamu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Halo,%20Saya%20Arya%&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,16 +18,7 @@
 ### 🧑‍💻 Tentang Saya
 
 ```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Nama Kamu"
-        self.role = "Full Stack Developer"
-        self.location = "Indonesia"
-        self.currently_learning = ["Next.js", "Docker", "Cloud Computing"]
-        self.fun_fact = "Suka ngoding sambil dengerin musik 🎧"
-
-    def say_hi(self):
-        print("Terima kasih sudah mampir ke profil saya! 👋")
+MAHASISW YANG BINGUNG DAN GABUT JOIN INFORMATIKA
 ```
 
 - 🔭 Sedang mengerjakan **project keren**
